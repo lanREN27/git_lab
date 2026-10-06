@@ -1,2 +1,2 @@
 first line
-this is from feature-1
+conflict from banch
